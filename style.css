@@ -1,0 +1,23 @@
+@font-face{
+     src:url("fonts/Roboto-Regular.ttf");
+	font-family:'Roboto',sans-serif;
+    
+}
+@font-face{
+	 src:url(fonts/MeriendaOne-Regular.ttf);
+     font-family:'Merienda One';
+	  font-weight: bold;
+}
+
+.roboto{
+	
+     font-size:40px;
+	 line-height:50px;
+     font-family:'Roboto',sans-serif;
+	 
+}
+
+.merienda{
+     font-size: 40px;
+     font-family: 'Marienda One';
+}
